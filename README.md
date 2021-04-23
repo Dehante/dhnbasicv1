@@ -9,7 +9,7 @@
 - 👀 I m currently focusing on **JavaScript**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-white?style=flat-triangle&logo=javascript" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-triangle&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=ff0000" />
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=ff0000" />
@@ -20,7 +20,8 @@
   <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" />
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
   <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/-SQLite3-white?style=flat-square&logo=sqlite" />
+  <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
+  <img src="https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm" />
 </p>
 
 <p align="center">
