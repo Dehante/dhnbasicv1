@@ -94,10 +94,12 @@ $ npm start
 <a href="#"><img title="Dehan Basic Script" src="https://img.shields.io/badge/-DEHAN--BASIC-red?colorA=%ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-** Settings disini **
+
+* Settings disini
+
 Tempat : ```./config.json```
 
-Contoh default :
+* Contoh default :
 ```
 {
 "vtir" : "YOUR_APIKEY",
