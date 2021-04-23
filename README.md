@@ -25,15 +25,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dehante"><img src="https://github-readme-stats.vercel.app/api?username=Dehante&bg_color=30,e96443,904e95&title_color=003300&text_color=fff&icode_border=true&show_icons=true" /></a>
+  <a href="https://github.com/Dehante"><img src="https://github-readme-stats.vercel.app/api?username=Dehante&bg_color=100,003300,e96443&title_color=fff&text_color=fff&icode_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dehante"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dehante&bg_color=30,e96443,904e95&title_color=fff&text_color=003300&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/Dehante"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dehante&bg_color=100,003300,e96443&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dehante&theme=red" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dehante&theme=black" /></a>
 </p>
 
 <p align="center">
@@ -41,8 +41,8 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/channel/UCQ5vr4WbsabL5JMZV73mKWg"><img src="https://img.shields.io/badge/YouTube-ンテ Dehanjing-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCQ5vr4WbsabL5JMZV73mKWg" /></a>
-  <a name=hendra759&label=VIEWS&style=flat-square&color=red"<img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px" /><img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px">
+  <a href="https://youtube.com/channel/UCQ5vr4WbsabL5JMZV73mKWg"><img src="https://img.shields.io/badge/YouTube-ンテ Dehanjing-003300?style=for-the-badge&logo=youtube&logoColor=e96443&link=https://youtube.com/channel/UCQ5vr4WbsabL5JMZV73mKWg" /></a>
+  <a name=hendra759&label=VIEWS&style=flat-square&color=black"<img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px" /><img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px">
 
 
  [#Social Media](https://github.com/Dehante)
