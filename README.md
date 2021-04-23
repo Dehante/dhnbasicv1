@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Dehante"><img title="Owner" src="https://img.shields.io/badge/Owner-Dehanjing-blue?style=for-the-badge&logo=windows"></a>
+<a href="https://github.com/Dehante"><img title="Owner" src="https://img.shields.io/badge/Owner-Dehanjing-black?style=for-the-badge&logo=windows"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Dehante/dhnbasicv1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Dehante?style=flat-square&text_color=003300"></a>
 <a href="https://github.com/Dehante/dhnbasicv1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dehante/dhnbasicv1?style=flat-square&text_color=003300"></a>
 <a href="https://github.com/Dehante/dhnbasicv1/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/Dehante/dhnbasicv1?style=flat-square&text_color=003300"></a>
-<a href="https://github.com/Dehante/dhnbasicv1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dehante/dhnbasicv1?color=blue&style=flat-square"></a>
+<a href="https://github.com/Dehante/dhnbasicv1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dehante/dhnbasicv1?color=black&style=flat-square"></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
