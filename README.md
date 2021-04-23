@@ -171,5 +171,6 @@ Tempat : ```./config.json```
 | Nsfw|✅|
 | Simih|✅|
 
- [#Social Media](https://github.com/Dehante)
-* [`WhatsApp BOT/OWNER `](https://wa.me/6281342474954)
+[#Social Media](https://github.com/Dehante)
+* <a href="https://instagram.com/dehan_j1ng"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+* <a href="https://wa.me/+6281342474954"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
