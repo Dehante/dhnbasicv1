@@ -98,7 +98,7 @@ $ npm start
 
 * Settings disini
 
-Tempat : ```./config.json```
+Tempat : [./config.json](https://github.com/Dehante/dhnbasicv1/blob/main/config.json)
 
 * Contoh default :
 ```
