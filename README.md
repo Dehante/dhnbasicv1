@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px"> Yooo Mastah
+##<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px"> Yooo Mastah 
 <h1 &align="center">デハンテー <img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px" alt="hi"><br> Dehanjing ン</h1>
 
 <p align="center">
@@ -60,6 +60,7 @@
 ぐ Termux
 ぐ WhatsApp
 ぐ 2 HandPhone
+ぐ Kouta / Internet
 ```
 
 ## Install
