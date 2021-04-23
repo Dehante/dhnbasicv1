@@ -2,7 +2,7 @@
 <h1 &align="center">デハンテー <img src="https://github.com/Dehante/dehanbotv3/blob/main/src/IMG-20210218-WA0202.jpg" width="40px" alt="hi"><br> Dehanjing ン</h1>
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/79034558?s=60&v=4" width="100%" alt="API Giphy logo"/>
+<img src="https://avatars.githubusercontent.com/u/79034558?s=60&v=4" width="50%" alt="API Giphy logo"/>
 </p>
 
 - 🌱 I’m currently learning **Baileys**.
