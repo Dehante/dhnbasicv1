@@ -35,13 +35,20 @@
   <img src="https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Dehante"><img src="https://github-readme-stats.vercel.app/api?username=Dehante&bg_color=30,e96443,904e95&title_color=003300&text_color=fff&icode_border=true&show_icons=true" /></a>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/Dehante"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dehante&bg_color=30,e96443,904e95&title_color=fff&text_color=003300&hide_border=true&show_icons=true&layout=compact" /></a>
-</p>
+<a href="https://github.com/Dehante">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dehante&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Dehante">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dehante&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
+
+<a href="https://github.com/Dehante/dhnbasicv1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dehante&repo=dhnbasicv1&theme=dark" />
+</a>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dehante&theme=red" /></a>
