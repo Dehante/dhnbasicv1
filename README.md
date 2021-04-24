@@ -107,12 +107,12 @@ $ termux-setup-storage && pkg update && pkg upgrade && pkg install git && git cl
 * Contoh Default  ↓
 ```bash
 {
-"vtir" : "YOUR_APIKEY", BELI APIKEY
-"lel" : "YOUR_APIKEY", BELI APIKEY
-"xtim" : "YOUR_APIKEY", BELI APIKEY
-"nopal" : "YOUR_APIKEY", BELI APIKEY
-"odc" : "YOUR_APIKEY", BELI APIKEY
-"leys" : "YOUR_APIKEY", BELI APIKEY
+"vtir" : "YOUR_APIKEY", BELI APIKEY VHTEAR
+"lel" : "YOUR_APIKEY", BELI APIKEY LOLHUMAN
+"xtim" : "YOUR_APIKEY", BELI APIKEY XTEAM
+"nopal" : "YOUR_APIKEY", BELI APIKEY NAUFALHOSTER
+"odc" : "YOUR_APIKEY", BELI APIKEY ONLYDEV
+"leys" : "YOUR_APIKEY", BELI APIKEY LEYSCODER
 "name" : "Dehan • BOT", GANTI SESUAI KEMAUAN
 "ownerName" : "Dehante", NAMA LU
 "faketeks" : "Dehan • BOT VERIFIED ✅", GANTI SESUAI KEMAUAN
