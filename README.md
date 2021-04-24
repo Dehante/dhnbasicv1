@@ -36,16 +36,13 @@
 </p>
 
 <br>
-
-<a href="https://github.com/Dehante">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dehante&theme=dark&hide_langs_below=1" />
-</a>
-
+<p align="center">
 <a href="https://github.com/Dehante">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dehante&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
-
-
+<p align="center">
+<a href="https://github.com/Dehante">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dehante&theme=dark&hide_langs_below=1" />
+<p align="center">
 <a href="https://github.com/Dehante/dhnbasicv1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dehante&repo=dhnbasicv1&theme=dark" />
 </a>
