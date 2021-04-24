@@ -100,10 +100,10 @@ $ termux-setup-storage && pkg update && pkg upgrade && pkg install git && git cl
 <a href="#"><img title="Dehan Basic Script" src="https://img.shields.io/badge/-DEHAN--BASIC-red?colorA=%ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-
-* Settings disini
-
-Tempat : | SETTING DISINI | [./config.json](https://github.com/Dehante/dhnbasicv1/blob/main/config.json) |
+## Setting here
+| Settings disini |
+|--------|--------|
+| SETTING DISINI | [./config.json](https://github.com/Dehante/dhnbasicv1/blob/main/config.json) |
 
 * Contoh default :
 ```bash
