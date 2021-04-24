@@ -101,11 +101,10 @@ $ termux-setup-storage && pkg update && pkg upgrade && pkg install git && git cl
 </p>
 
 ## Setting here
-| Settings disini |
+| PENGATURAN | DISINI |
 |--------|--------|
-| SETTING DISINI | [./config.json](https://github.com/Dehante/dhnbasicv1/blob/main/config.json) |
-
-* Contoh default :
+| **SETTING DI SINI →** | [[./config.json](https://github.com/Dehante/dhnbasicv1/blob/main/config.json)] |
+* Contoh Default  ↓
 ```bash
 {
 "vtir" : "YOUR_APIKEY", BELI APIKEY
