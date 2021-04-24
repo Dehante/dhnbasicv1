@@ -103,28 +103,27 @@ $ termux-setup-storage && pkg update && pkg upgrade && pkg install git && git cl
 
 * Settings disini
 
-Tempat : [./config.json](https://github.com/Dehante/dhnbasicv1/blob/main/config.json)
+Tempat : | SETTING DISINI | [./config.json](https://github.com/Dehante/dhnbasicv1/blob/main/config.json) |
 
 * Contoh default :
 ```bash
 {
-"vtir" : "YOUR_APIKEY",
-"lel" : "YOUR_APIKEY",
-"xtim" : "YOUR_APIKEY",
-"nopal" : "YOUR_APIKEY",
-"odc" : "YOUR_APIKEY",
-"leys" : "YOUR_APIKEY",
-"name" : "Dehan • BOT",
-"ownerName" : "Dehante",
-"faketeks" : "Dehan • BOT VERIFIED ✅",
-"limitawal" : "999",
-"owner" : "6281342474954",
-"memberlimit" : "10000",
-"prefix" : "#",
-"fakenumber" : "0",
-"imgeh" : "dehan_j1ng",
-"perofil" : "./media/dhn.jpeg",
-"autorespon" : "Kenapa ngeTag nomer bot?"
+"vtir" : "YOUR_APIKEY", BELI APIKEY
+"lel" : "YOUR_APIKEY", BELI APIKEY
+"xtim" : "YOUR_APIKEY", BELI APIKEY
+"nopal" : "YOUR_APIKEY", BELI APIKEY
+"odc" : "YOUR_APIKEY", BELI APIKEY
+"leys" : "YOUR_APIKEY", BELI APIKEY
+"name" : "Dehan • BOT", GANTI SESUAI KEMAUAN
+"ownerName" : "Dehante", NAMA LU
+"faketeks" : "Dehan • BOT VERIFIED ✅", GANTI SESUAI KEMAUAN
+"limitawal" : "999", GANTI SESUAI KEMAUAN
+"owner" : "6281342474954", NOMOR LU
+"memberlimit" : "10000", BATAS 1 SAMPAI 257 LIMIT
+"prefix" : "#", GANTI SESUAI KEMAUAN
+"fakenumber" : "0", GANTI KE NOMOR ORANG / 0 = MARK AWAS KE BAN V:
+"perofil" : "./media/dhn.jpeg", GANTI GAMBARNYA DISINI LALU "./media/namafile.jpeg"
+"autorespon" : "Kenapa ngeTag Nomor BOT?" GANTI KE TEKS YANG LU SUKA JIKA ADA TAG NO. BOT
 }
 ```
 ## Features
