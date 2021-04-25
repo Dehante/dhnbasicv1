@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://github.com/Dehante/dhnbasicv1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dehante&repo=dhnbasicv1&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dehante&repo=dhnbasicv1&theme=highcontrast" />
 </a>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dehante&theme=highcontrast" /></a>
