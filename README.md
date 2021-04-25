@@ -35,20 +35,15 @@
   <img src="https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm" />
 </p>
 
-<br>
-<p align="center">
-<a href="https://github.com/Dehante">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dehante&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-<p align="center">
-<a href="https://github.com/Dehante">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dehante&theme=dark&hide_langs_below=1" />
+![Dehante GitHub Statistic](https://github-readme-stats.vercel.app/api?username=Dehante&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
+![GitHub Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Dehante&layout=compact&theme=highcontrast)
+
 <p align="center">
 <a href="https://github.com/Dehante/dhnbasicv1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dehante&repo=dhnbasicv1&theme=dark" />
 </a>
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dehante&theme=red" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dehante&theme=highcontrast" /></a>
 </p>
 
 <p align="center">
