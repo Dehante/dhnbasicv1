@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/Dehante/dhnbasicv1/issues"
   },
-  "homepage": "https://github.com/Dehante/Dehante",
+  "homepage": "https://github.com/Dehante#readme.md",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.0",
